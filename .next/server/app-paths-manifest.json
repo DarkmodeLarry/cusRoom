@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/dream/page": "app/dream/page.js",
+  "/generate/route": "app/generate/route.js"
+}
